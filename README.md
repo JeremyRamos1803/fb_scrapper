@@ -1,0 +1,3 @@
+- Requiere instalar sellenium y chromedrivers, recomiendo este video tutorial: https://www.youtube.com/watch?v=jrNZQyhtBM0
+- Credenciales de cuenta de Fb en credentials.txt
+- Cambiar linea 8 del codigo a una carpeta donde mas tarde se guardara la informacion
